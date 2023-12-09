@@ -310,7 +310,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     background-image: url("./img/banner/b17.jpg");
-    min-width: 450px;
+    min-width: 480px;
     height: 50vh;
     background-size: cover;
     background-position: center;
