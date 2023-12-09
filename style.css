@@ -310,7 +310,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     background-image: url("./img/banner/b17.jpg");
-    min-width: 480px;
+    width: 490px;
     height: 50vh;
     background-size: cover;
     background-position: center;
@@ -352,7 +352,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     background-image: url("./img/banner/b7.jpg");
-    min-width: 26%;
+    width: 300px;
     height: 30vh;
     background-size: cover;
     background-position: center;
